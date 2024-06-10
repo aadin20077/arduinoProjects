@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"UMicro-Controller",1," Arduino Uno R3"
+"SENSoil Moisture Sensor",1," Soil Moisture Sensor"
+"D2",1,"Red LED"
+"D8",1,"Yellow LED"
+"D9",1,"Green LED"
+"U3",1,"PCF8574-based, 33 (0x21) LCD 16 x 2 (I2C)"
+"U6",1," Temperature Sensor [TMP36]"
+"U1",1,"PCF8574-based, 34 (0x22) LCD 16 x 2 (I2C)"
